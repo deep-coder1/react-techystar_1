@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- Time 23:15:00 -- 11:43:25 -->
 <!-- Time 34:04:00 -- 11:43:25 -->
+<!-- Time 34:04:00 -- 11:43:25 -->
+
+<!-- Import, Export & Props -->
+<!-- Time 46:15:00 -- 11:43:25 -->
