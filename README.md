@@ -75,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- Import, Export & Props -->
 <!-- Time 46:15:00 -- 11:43:25 -->
+
+<!-- Styles Nav, Import, Export & Props -->
+<!-- Time 51:50:00 -- 11:43:25 -->
