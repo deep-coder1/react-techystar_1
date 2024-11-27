@@ -77,4 +77,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- Time 46:15:00 -- 11:43:25 -->
 
 <!-- Styles Nav, Import, Export & Props -->
-<!-- Time 51:50:00 -- 11:43:25 -->
+<!-- Time 53:55:00 -- 11:43:25 -->
+
+<!-- Routing in React -->
+<!-- Time 01:07:33 -- 11:43:25 -->
+
+<!-- React Project 1st -->
+<!-- Time 01:07:33 -- 11:43:25 -->
