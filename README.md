@@ -70,5 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-<!-- React Project 1st TechyStar -->
+<!-- React Project 1st TechyStar 1 -->
 <!-- Time 01:27:45 -- 11:43:25 -->
+
+<!-- React Project 1st TechyStar 2 -->
+<!-- Time 01:35:02 -- 11:43:25 -->
