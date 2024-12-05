@@ -81,3 +81,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- React Project 1st TechyStar 4 Brands Home Section -->
 <!-- Time 01:50:52 -- 11:43:25 -->
+
+<!-- React Project 1st TechyStar 5 Footer Section 1.0 -->
+<!-- Time 02:00:02 -- 11:43:25 -->
