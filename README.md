@@ -87,3 +87,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- React Project 1st TechyStar 5 Contact Section 1.0 -->
 <!-- Time 02:04:12 -- 11:43:25 -->
+
+<!-- React Project 1st TechyStar 5 Contact Section 1.1 -->
+<!-- Time 02:09:04 -- 11:43:25 -->
