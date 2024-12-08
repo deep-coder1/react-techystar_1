@@ -93,3 +93,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- React Project 1st TechyStar 5 Services and Mediaquery Section 1.1 -->
 <!-- Time 02:21:40 -- 11:43:25 -->
+
+<!-- React Project 1st TechyStar Mediaquery Section 1.2 -->
+<!-- Time 02:27:58 -- 11:43:25 -->
