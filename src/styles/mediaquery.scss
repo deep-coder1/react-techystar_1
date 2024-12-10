@@ -94,4 +94,13 @@
             }
         }
     }
+
+    footer {
+        height: 50vh;
+        grid-template-columns: 1fr;
+        padding: 5rem;
+        > div {
+            align-items: center;
+        }
+    }
 }
